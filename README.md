@@ -1,4 +1,4 @@
-# java-week8-futures-volatility
+# java-week8-futures-volatility-
 # Week 8 Assignment 5 - Exception Handling, Interfaces and more
 
 ## Student Name
@@ -37,7 +37,7 @@ The price data covers July 9, 2026 through July 22, 2026.
 https://www.onlinegdb.com/s/as/390019
 
 ## GitHub Repository Link
-https://github.com/tatiana-jara/java-week8-futures-volatility
+https://github.com/tatiana-jara/java-week8-futures-volatility-
 
 ## AI Assistance Statement
 I used ChatGPT as an AI assistance tool while working on this assignment.
